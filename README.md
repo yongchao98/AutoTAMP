@@ -1,5 +1,5 @@
 # AutoTAMP
-Here we show the two examples on the single-agent environments: Chip Challenge and HouseWorld.
+Here we show the two examples on the single-agent environments: Chip Challenge and HouseWorld. The left codes and dataset are coming soon.
 
 ## Requirements
 Please install the Gurobi optimizer by following the instructions on the official website https://www.gurobi.com/products/gurobi-optimizer/
