@@ -7,7 +7,7 @@ import os
 syntactic_correct_loop = True # for syntactic check loop
 semantic_correct_loop = True # for semantic check loop
 domain = 'chip' # 'HouseWorld' or 'chip'
-experiment_result_dir = '/Users/yongchaochen/Robot_NLP/AutoTAMP/experiment_result' # the directory of experiment_result
+experiment_result_dir = 'path-to-the-code-directory/experiment_result' # the directory of experiment_result
 model_name = 'gpt-4' # 'gpt-3' or 'gpt-4'
 
 
