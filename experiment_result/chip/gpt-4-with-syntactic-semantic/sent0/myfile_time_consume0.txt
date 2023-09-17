@@ -1,0 +1,5 @@
+Total time: 107.61521196365356
+Syntactic time: 51.34491801261902
+Semantic time: 0
+Syntactic check iteration: 4
+Semantic check iteration: 0

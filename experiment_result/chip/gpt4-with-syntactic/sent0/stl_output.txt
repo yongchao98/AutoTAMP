@@ -1,0 +1,5 @@
+Syntactic correct
+0. ['and', 'and', 'finally', 'and', 'enter(room6)', 'enter(room7)', 'globally', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'not_enter(room13)', 'not_enter(room14)', 'not_enter(room15)', 'not_enter(room16)', 'not_enter(room17)', 'not_enter(room18)', 'not_enter(room19)', 'not_enter(room20)', 'not_enter(room21)', 'and', 'and', 'and', 'and', 'until', 'not_enter(room8)', 'enter(room1)', 'until', 'not_enter(room9)', 'enter(room2)', 'until', 'not_enter(room10)', 'enter(room3)', 'until', 'not_enter(room11)', 'enter(room4)', 'until', 'not_enter(room12)', 'enter(room5)']
+
+['and', 'and', 'finally', 'prop_1', 'globally', 'prop_2', 'prop_3']
+
