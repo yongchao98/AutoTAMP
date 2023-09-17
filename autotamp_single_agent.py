@@ -7,7 +7,7 @@ import os
 syntactic_correct_loop = True # for syntactic check loop
 semantic_correct_loop = True # for semantic check loop
 domain = 'chip' # 'HouseWorld' or 'chip'
-experiment_result_dir = 'path-to-submission_code/experiment_result' # the directory of experiment_result
+experiment_result_dir = '/Users/yongchaochen/Robot_NLP/AutoTAMP/experiment_result' # the directory of experiment_result
 model_name = 'gpt-4' # 'gpt-3' or 'gpt-4'
 
 
@@ -20,15 +20,19 @@ if domain == 'chip':
         elif syntactic_correct_loop == False and semantic_correct_loop == False:
             saving_path_test_case = experiment_result_dir + '/chip/' + model_name + '-without-check'
 
+        if not os.path.exists(experiment_result_dir + '/chip/'):
+            os.mkdir(experiment_result_dir + '/chip/')
         if not os.path.exists(saving_path_test_case):
             os.mkdir(saving_path_test_case)
         instruction_path = experiment_result_dir + '/chip/instr_dir'
+        if not os.path.exists(instruction_path):
+            os.mkdir(instruction_path)
         saving_path = saving_path_test_case + '/sent' + str(index)
         if not os.path.exists(saving_path):
             os.mkdir(saving_path)
         with open(instruction_path + '/myfile_sent' + str(index+1) + '.txt', 'r') as file:
             input_instruction = file.read().split('\n\n')
-        print(len(input_instruction))
+        #print(len(input_instruction))
         for item in input_instruction:
             print(item)
         with open(saving_path + '/stl_output.txt', 'a') as f_STL_output:

@@ -137,7 +137,7 @@ def NL2action(index, saving_path, original_sent = 'Go to one room.', start_posit
     time_syntactic = 0
     semantic_iteration_times = 0
     syntactic_iteration_times = 0
-    print('\n\nStart the new round of NL2action!\n\n')
+    #print('\n\nStart the new round of NL2action!\n\n')
     wall_half_width = 0.1
     A = np.array([[-1, 0], [1, 0], [0, -1], [0, 1]])
 
@@ -331,8 +331,11 @@ def NL2action(index, saving_path, original_sent = 'Go to one room.', start_posit
                          'yellow': [[1.4, -0.2, -0.8, 1.43, 'RestRoom']],
                          'purple': [[0.7, -0.3, 1.4, -0.8, 'DiningRoom']],
                          'black': walls_with_tags}
+    else:
+        raise ValueError('unknown domain')
 
     # Start the parsing and planning
+    #print('Start the parsing and planning')
     plots = []
     prop2block_dir = {}
 
