@@ -4,7 +4,7 @@ Here we show the two examples on the single-agent environments: Chip Challenge a
 Paper Link: https://arxiv.org/pdf/2306.06531.pdf
 
 <div align="center">
-    <img src="Github-figures/main_figure.png" alt="Main image" width="75%"/>
+    <img src="Illustraton of three methods.png" alt="Main image" width="75%"/>
 </div>
 
 ## Requirements
