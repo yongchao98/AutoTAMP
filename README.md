@@ -1,7 +1,11 @@
-# AutoTAMP
+# AutoTAMP ([Website](https://yongchao98.github.io/MIT-REALM-AutoTAMP/))
 Here we show the two examples on the single-agent environments: Chip Challenge and HouseWorld. The left codes and datasets are coming soon.
 
 Paper Link: https://arxiv.org/pdf/2306.06531.pdf
+
+<div align="center">
+    <img src="Github-figures/main_figure.png" alt="Main image" width="75%"/>
+</div>
 
 ## Requirements
 Please install the Gurobi optimizer by following the instructions on the official website https://www.gurobi.com/products/gurobi-optimizer/
