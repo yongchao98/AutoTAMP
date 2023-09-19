@@ -1,5 +1,6 @@
 # AutoTAMP
 Here we show the two examples on the single-agent environments: Chip Challenge and HouseWorld. The left codes and datasets are coming soon.
+Paper Link: https://arxiv.org/pdf/2306.06531.pdf
 
 ## Requirements
 Please install the Gurobi optimizer by following the instructions on the official website https://www.gurobi.com/products/gurobi-optimizer/
@@ -27,3 +28,12 @@ python llm_task_plan.py
 ```
 
 The experimental results will appear in the dir experiment_result.
+
+## Citation for BibTeX
+
+@article{chen2023autotamp,
+  title={AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers},
+  author={Chen, Yongchao and Arkin, Jacob and Zhang, Yang and Roy, Nicholas and Fan, Chuchu},
+  journal={arXiv preprint arXiv:2306.06531},
+  year={2023}
+}
