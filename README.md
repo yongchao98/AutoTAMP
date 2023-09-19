@@ -38,3 +38,8 @@ The experimental results will appear in the dir experiment_result.
   journal={arXiv preprint arXiv:2306.06531},
   year={2023}
 }
+
+## Recommended Work
+
+[NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models](https://arxiv.org/pdf/2305.07766.pdf)
+[Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?](https://yongchao98.github.io/MIT-REALM-Multi-Robot/)
