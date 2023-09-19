@@ -34,7 +34,7 @@ python llm_task_plan.py
 
 The experimental results will appear in the dir experiment_result.
 
-## Citation for BibTeX
+## Cite
 
 @article{chen2023autotamp,
   title={AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers},
