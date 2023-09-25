@@ -34,6 +34,9 @@ python llm_task_plan.py
 
 The experimental results will appear in the dir experiment_result.
 
+## Visualization
+We have uploaded the AutoTAMP_plotting.ipynb and Example_results directory to give the visualization examples. During the experiments, myfile{i}.txt will be created to record the position/time waypoints, which are used for visualization when giving the environmental plots.
+
 ## Cite
 
 @article{chen2023autotamp,
