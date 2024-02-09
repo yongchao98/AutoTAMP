@@ -1,6 +1,4 @@
 # AutoTAMP ([Website](https://yongchao98.github.io/MIT-REALM-AutoTAMP/))
-Here we show the two examples on the single-agent environments: Chip Challenge and HouseWorld. The left codes and datasets are coming soon.
-
 Paper Link: https://arxiv.org/pdf/2306.06531.pdf
 
 <div align="center">
