@@ -1,5 +1,5 @@
 # AutoTAMP ([Website](https://yongchao98.github.io/MIT-REALM-AutoTAMP/))
-Paper Link: https://drive.google.com/file/d/1zIRIf2WiCcRIQEKSYfTA-Sejyrdn_fmw/view?usp=share_link
+Paper Link: https://arxiv.org/pdf/2306.06531.pdf
 
 <div align="center">
     <img src="Illustraton of three methods.png" alt="Main image" width="75%"/>
