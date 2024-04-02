@@ -1,4 +1,4 @@
-# AutoTAMP ([Website](https://yongchao98.github.io/MIT-REALM-AutoTAMP/))
+# AutoTAMP ([Website](https://yongchao98.github.io/MIT-REALM-AutoTAMP/), ICRA 2024)
 Paper Link: https://arxiv.org/pdf/2306.06531.pdf
 
 <div align="center">
